@@ -99,8 +99,8 @@ Sebuah bilangan bulat `N`.
 ### Format Output
 
 Sebuah string:
-`Ya` jika `N` 4 digit
-`Tidak` jika `N` bukan 4 digit
+- `Ya` jika `N` 4 digit
+- `Tidak` jika `N` bukan 4 digit
 
 ### Contoh
 
@@ -146,8 +146,8 @@ Sebuah bilangan bulat `N`.
 ### Format Output
 
 Sebuah string:
-`Kabisat` jika `N` tahun kabisat
-`Bukan Kabisat` jika `N` bukan tahun kabisat
+- `Kabisat` jika `N` tahun kabisat
+- `Bukan Kabisat` jika `N` bukan tahun kabisat
 
 ### Contoh
 
@@ -167,7 +167,6 @@ Sebuah string:
 
   ```
   2023
-
   ```
 
 - Sample Output 2
@@ -251,8 +250,8 @@ Tiga bilangan bulat `a`, `b`, `c`.
 
 ### Format Output
 
-Maksimum: `X`
-Minimum: `Y`
+- Maksimum: `X`
+- Minimum: `Y`
 
 ### Contoh
 
@@ -312,14 +311,12 @@ Tampilkan total biaya parkir.
 ```
 1
 3
-
 ```
 
 - Sample Output 1
 
 ```
 Total biaya parkir: Rp6000
-
 ```
 
 - Sample Input 2
@@ -327,14 +324,12 @@ Total biaya parkir: Rp6000
 ```
 3
 2
-
 ```
 
 - Sample Output 2
 
 ```
 Total biaya parkir: Rp20000
-
 ```
 
 ## Floor and Ceiling
