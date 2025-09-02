@@ -23,7 +23,7 @@ Deskripsi    :
 - [Latihan 3](#latihan-3)
 - [Fizz Buzz](#Fizz-Buzz)
 - [Max and Min](#Max-and-Min)
-- [Central Park?](#Central-Park)
+- [Central Park](#Central-Park)
 - [Floor and Ceiling](#Floor-and-Ceiling)
 
 ## Latihan 1
@@ -41,9 +41,9 @@ Sebuah bilangan bulat `N`.
 ### Format Output
 
 Sebuah string:
-`Positif` jika `N` > 0
-`Negatif` jika `N` < 0
-`Nol` jika `N` = 0
+- `Positif` jika `N` > 0
+- `Negatif` jika `N` < 0
+- `Nol` jika `N` = 0
 
 ### Contoh
 
