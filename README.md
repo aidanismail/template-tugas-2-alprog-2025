@@ -22,9 +22,9 @@ Deskripsi    :
 - [Latihan 2](#latihan-2)
 - [Latihan 3](#latihan-3)
 - [Fizz Buzz](#Fizz-Buzz)
-- [](#per)
-- [Berbagi Bebek](#berbagi-bebek)
-- [Luas dan Keliling Persegi Panjang](#luas-dan-keliling-persegi-panjang)
+- [Max and Min](#Max-and-Min)
+- [Central Park?](#Central-Park)
+- [Floor and Ceiling](#Floor-and-Ceiling)
 
 ## Latihan 1
 
@@ -282,7 +282,7 @@ Max: 0
 Min: -11
 ```
 
-## Central Park?
+## Central Park
 
 > file: `tugas_3.cpp`
 
