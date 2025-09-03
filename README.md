@@ -4,7 +4,7 @@
 
 **Penting Juga: Biasakan menambah format berikut pada bagian paling atas setiap file kode!**
 
-**Soal-soal ini dibuat oleh Aidan Ismail - 140810230075**
+**Made with <3**
 
 ```cpp
 /*
